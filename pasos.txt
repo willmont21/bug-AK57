@@ -1,0 +1,2 @@
+paso 1: consultar el kernel instalado
+paso 2: escribir lsb_release -a "
